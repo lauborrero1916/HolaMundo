@@ -7,6 +7,9 @@ public class Hola {
 						
 		System.out.println("HOLA MUNDO ");
 		System.out.println("Soy laura y este es un ejemplo");
+
+		System.out.println("HOLA ESTE ES OTRO CAMBIO"); 
+		System.out.println("HECHO POR MI");
 		
 
 	}
